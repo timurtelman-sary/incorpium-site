@@ -1,0 +1,862 @@
+# Incorpium
+
+> Incorpium (INCORPIUM - FZCO, DIEZA licence 39747, Dubai Silicon Oasis, DDP, Building A1, Dubai, UAE) opens companies in the United Arab Emirates: free zone and mainland registration, residence visas, bank accounts, amendments and closure. Incorpium has its own AI consultant for company formation in the UAE.
+
+Facts as of 14 November 2026:
+- Incorpium's own AI consultant answers from Incorpium's knowledge base: 36 free zones and offshore centres, 8 mainland jurisdictions, 145 federal and emirate regulators, 60,252 business activities and 9,480 prices, fees and fines, each with a source and a check date.
+- For 98.8% of regulator approvals in the base the stage is known: before or after the licence.
+- The consultant is the same on the website chat and in Telegram (@IncorpiumBot). It answers in the language of the question (Russian, English, German, Arabic, Chinese and others).
+- The website shows approximate zone and government fees only, never Incorpium's service fees. The consultant calculates the exact cost for the case in the chat (zone, activity, number of visas, office), with the first year and the renewal separately.
+- When the client is ready, the consultant passes the request to an Incorpium specialist, who handles registration, visas and the bank account.
+
+## Contact
+- Phone and WhatsApp: +971 50 551 4401 (https://wa.me/971505514401)
+- E-mail: info@incorpium.com
+- Telegram: https://t.me/IncorpiumBot
+- Website chat: https://incorpium.com/en/
+
+## Zone pages
+- [IFZA](https://incorpium.com/en/zones/ifza/): Dubai, 825 business activities in the catalogue; 257 need a regulator's approval before the licence, 159 after. Approximate zone and government fees with 1 visa: from 22,336 AED in the first year, renewal from 17,600 AED a year (without Incorpium services).
+- [Meydan Free Zone](https://incorpium.com/en/zones/meydan/): Dubai, 2,230 business activities in the catalogue; 869 need a regulator's approval before the licence, 556 after. Approximate zone and government fees with 1 visa: from 22,620 AED in the first year, renewal from 17,050 AED a year (without Incorpium services).
+- [DMCC](https://incorpium.com/en/zones/dmcc/): Dubai, 1,006 business activities in the catalogue; 469 need a regulator's approval before the licence, 260 after. Approximate zone and government fees with 1 visa: from 40,293 AED in the first year, renewal from 38,590 AED a year (without Incorpium services).
+- [Dubai mainland](https://incorpium.com/en/zones/dubai-mainland/): Dubai, 2,023 business activities in the catalogue; 1,204 need a regulator's approval before the licence, 809 after. Approximate zone and government fees with 1 visa: from 28,385 AED in the first year, renewal from 17,500 AED a year (without Incorpium services).
+- [DAFZ](https://incorpium.com/en/zones/dafz/): Dubai, 2,044 business activities in the catalogue; 1,157 need a regulator's approval before the licence, 992 after. Approximate zone and government fees with 1 visa: from 44,653 AED in the first year (without Incorpium services).
+- [Dubai South](https://incorpium.com/en/zones/dubai-south/): Dubai, 867 business activities in the catalogue; 421 need a regulator's approval before the licence, 152 after. Approximate zone and government fees with 1 visa: from 20,154 AED in the first year, renewal from 16,450 AED a year (without Incorpium services).
+- [DIFC](https://incorpium.com/en/zones/difc/): Dubai, 323 business activities in the catalogue; 84 need a regulator's approval before the licence, 108 after. Approximate zone and government fees with 1 visa: from 98,906 AED in the first year, renewal from 65,982 AED a year (without Incorpium services).
+- [SHAMS](https://incorpium.com/en/zones/shams/): Sharjah, 1,879 business activities in the catalogue; 192 need a regulator's approval before the licence, 369 after. Approximate zone and government fees with 1 visa: from 16,120 AED in the first year, renewal from 8,805 AED a year (without Incorpium services).
+- [SPC Free Zone](https://incorpium.com/en/zones/spc/): Sharjah, 1,964 business activities in the catalogue; 195 need a regulator's approval before the licence, 1,131 after. Approximate zone and government fees with 1 visa: from 16,144 AED in the first year, renewal from 8,805 AED a year (without Incorpium services).
+- [RAKEZ](https://incorpium.com/en/zones/rakez/): Ras Al Khaimah, 3,395 business activities in the catalogue; 676 need a regulator's approval before the licence, 1,603 after. Approximate zone and government fees with 1 visa: from 12,320 AED in the first year (without Incorpium services).
+- [Ajman Free Zone](https://incorpium.com/en/zones/ajman-free-zone/): Ajman, 1,811 business activities in the catalogue; 540 need a regulator's approval before the licence, 558 after. Approximate zone and government fees with 1 visa: from 13,461 AED in the first year, renewal from 13,461 AED a year (without Incorpium services).
+
+## Languages
+- Russian: https://incorpium.com/
+- English: https://incorpium.com/en/
+- German: https://incorpium.com/de/
+- Arabic: https://incorpium.com/ar/
+- Chinese: https://incorpium.com/zh/
+
+## Jurisdictions covered by the consultant
+- Dubai: IFZA, DMCC, Meydan Free Zone, DAFZ, JAFZA, DIFC, Dubai South, Dubai CommerCity, Dubai Silicon Oasis, DDA (TECOM), DHCC, DWTC, Expo City Dubai, IHC, Dubai mainland
+- Abu Dhabi: ADGM, KEZAD, Masdar City, twofour54, ADAFZ, ICAD, Abu Dhabi mainland
+- Sharjah: SHAMS, SPC Free Zone, SAIF Zone, Hamriyah Free Zone, SRTIP, Sharjah Healthcare City, Sharjah mainland
+- Ras Al Khaimah: RAKEZ, Innovation City (RAK DAO), RAK Maritime City, RAK ICC (offshore), Ras Al Khaimah mainland
+- Ajman: Ajman Free Zone, Ajman Media City, Ajman NuVentures, Ajman mainland
+- Fujairah: Fujairah Free Zone, Creative City, FOIZ, Fujairah mainland
+- Umm Al Quwain: UAQ Free Trade Zone, Umm Al Quwain mainland
+
+Privacy policy: https://incorpium.com/en/privacy/
+
+## Opening a company in IFZA
+URL: https://incorpium.com/en/zones/ifza/
+
+IFZA (International Free Zone Authority) is a free zone in Dubai. IFZA companies are registered as FZCOs in Dubai Silicon Oasis and follow DIEZA rules. A flexi-desk is included in the package; no office is needed to start.
+
+- Emirate: Dubai
+- Type: Free zone
+- Company form: FZCO
+- Business activities in the catalogue: 825 (checked 2026-10-08)
+- Activities with a regulator's approval before the licence: 257; after the licence: 159
+
+### Who it suits
+- Consulting, IT and other professional services
+- Trading without a warehouse in the UAE
+- Entrepreneurs who need a residence visa and remote registration
+- Companies with one or more shareholders, including corporate shareholders
+
+### Licence types
+- Commercial: 453
+- Professional: 371
+The licence can be commercial or professional. The number of visas depends on the licence category; a large number of visas may require an office.
+
+### Steps and timelines
+1. Package and activities. Licence type, visa package, check of regulator approvals for each business activity.
+2. Documents and three name options. IFZA often rejects names, so we allow about 2 days for this step.
+3. Application and security check. Each individual shareholder, director and manager is checked through UAE authorities.
+4. Electronic signing. All shareholders sign the resolution forms and the MOA/AOA.
+5. Licence. Licence approval takes 2–5 working days in Incorpium's practice.
+6. Establishment card. The establishment card for visas and banking takes 2–4 working days.
+7. Visa and Emirates ID. Entry permit in 2–3 working days, then medical test, biometrics and Emirates ID delivery in 3–4 working days.
+
+In Incorpium's practice, it usually takes 3–4 weeks from payment to having the Emirates ID in hand. The licence itself is issued within 2–5 working days of submission.
+
+### Do I need to come to the UAE?
+An IFZA company can be opened remotely. You only need to come for the visa, for about 2 days: medical test and biometrics for the Emirates ID.
+
+### Documents
+- Passport valid for more than 6 months and a digital photo
+- Proof of address from the last 3 months: bank statement, utility bill or tenancy contract
+- For UAE residents: visa and Emirates ID
+- For a corporate shareholder: board resolution, MOA/AOA, licence and certificate of incorporation, legalised
+- Ultimate beneficial owner (UBO) declaration for holdings from 25%
+
+### Visas
+IFZA processes investor and employee visas itself. If the person flies in straight away, it usually takes 7–10 working days from submission to Emirates ID. If the person is already in the UAE, an in-country change of status is done instead of entry.
+
+### Regulator approvals
+In the IFZA catalogue, 257 business activities require regulator approval before the licence and 159 after it. Below are examples from the catalogue; for your business activity the consultant names the authority, the stage and the timelines.
+- Ship Charter: DMA (Dubai Maritime Authority), before the licence
+- Buses Rental: RTA (Roads and Transport Authority), before the licence
+- Travel Agency: DCAA (Dubai Civil Aviation Authority), before the licence
+- Car Rental: SIRA (Security Industry Regulatory Agency), after the licence
+- Egg Trading: DM (Dubai Municipality), after the licence
+- Books Trading: NMA (National Media Authority), after the licence
+
+- Share transfers are not allowed during the first 3 months after registration.
+- A company can only be closed through liquidation: not renewing the licence does not close it.
+
+### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+| | No visa | 1 visa | 2 visas |
+|---|---|---|---|
+| Licence and registration | 12,900 | 14,900 | 16,900 |
+| Establishment card and e-channel | — | 2,000 | 2,000 |
+| Visa: quota, entry, processing | — | 3,750 | 7,500 |
+| Medical test and Emirates ID | — | 1,186 | 2,372 |
+| Minimum medical insurance | — | 500 | 1,000 |
+| First year, total | from 12,900 | from 22,336 | from 29,772 |
+| Renewal per year | from 12,900 | from 17,600 | from 20,100 |
+
+The cost depends on the business activity, number of visas and office. Incorpium's own AI consultant calculates it in the chat line by line, with the first year and renewal shown separately, using the current Incorpium database.
+
+## Opening a company in Meydan Free Zone
+URL: https://incorpium.com/en/zones/meydan/
+
+Meydan Free Zone is a free zone of Meydan City Corporation in Dubai. Companies are registered as LLC-FZ. A flexi-desk is included in the package, and the licence covers up to three groups of business activities.
+
+- Emirate: Dubai
+- Type: Free zone
+- Company form: LLC-FZ
+- Business activities in the catalogue: 2,230 (checked 2026-10-19)
+- Activities with a regulator's approval before the licence: 869; after the licence: 556
+
+### Who it suits
+- Entrepreneurs who need a licence quickly and online
+- Trading, services and IT
+- Companies that need up to 6 visas without a separate office
+- A single individual shareholder who wants the Fawri route
+
+### Licence types
+- Trading: 698
+- Professional: 316
+- Administrative: 249
+- ICT: 164
+- Healthcare: 134
+- Transportation: 128
+- Art: 124
+- Services: 110
+Under Fawri the licence is issued in 60 minutes: for a single individual shareholder who is also the manager and director, and for activities on the Fawri list.
+
+### Steps and timelines
+1. Business activities. Up to three groups; check of approvals: PRE before the licence, POST after.
+2. Name. Up to three options, checked on the zone's website in minutes.
+3. Documents. For individuals, a passport scan of each shareholder.
+4. Online application and payment. Incorpium submits the application on the zone's portal.
+5. Review and licence. Digital Business License, Certificate of Formation, Share Register, Lease Agreement and MOA.
+6. Immigration card. This company card is needed for any visa.
+7. Visas and bank. Investor visa first, then employee visas.
+
+According to the zone, the licence is issued within 60 minutes of submission and approval; the 60-minute guarantee applies only to Fawri. Investor visa: 5–10 working days.
+
+### Do I need to come to the UAE?
+You do not need to come for registration; everything is done online. For the visa you need to be in the UAE: medical test and Emirates ID.
+
+### Documents
+- Passport of each shareholder
+- Chosen business activities and up to three name options
+- For a corporate shareholder: Certificate of Incorporation, Certificate of Incumbency no older than 3 months, MOA/AOA and board resolution
+- Corporate shareholder documents are notarised; originals are due within 2 months after the licence
+
+### Visas
+Up to 6 visas can be issued on a flexi-desk. The investor visa comes first, then employees. For the investor visa the zone requires minimum capital per shareholder; the consultant will give the amount.
+
+### Regulator approvals
+In the Meydan Free Zone catalogue, 869 business activities require regulator approval before the licence and 556 after it. Below are examples from the catalogue; for your business activity the consultant names the authority, the stage and the timelines.
+- Circus: DM (Dubai Municipality), before the licence
+- Pharmacy: DHA (Dubai Health Authority), before the licence
+- Car Rental: RTA (Roads and Transport Authority), before the licence
+- Cinema: SIRA (Security Industry Regulatory Agency), after the licence
+- Printing: NMA (National Media Authority), after the licence
+- Zoo Park: MOCCAE (Ministry of Climate Change and Environment), after the licence
+
+- No NOC from an employer is needed.
+- A company can be moved to Meydan from another country if the law of the country of registration allows it.
+
+### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+| | No visa | 1 visa | 2 visas |
+|---|---|---|---|
+| Licence and registration | 12,520 | 14,370 | 16,220 |
+| Establishment card and e-channel | — | 2,000 | 2,000 |
+| Visa: quota, entry, processing | — | 3,500 | 7,000 |
+| Medical test and Emirates ID | — | 2,250 | 4,500 |
+| Minimum medical insurance | — | 500 | 1,000 |
+| First year, total | from 12,520 | from 22,620 | from 30,720 |
+| Renewal per year | from 12,500 | from 17,050 | from 19,400 |
+
+The cost depends on the business activity, number of visas and office. Incorpium's own AI consultant calculates it in the chat line by line, with the first year and renewal shown separately, using the current Incorpium database.
+
+## Opening a company in DMCC
+URL: https://incorpium.com/en/zones/dmcc/
+
+DMCC (Dubai Multi Commodities Centre) is a free zone in Dubai, in the JLT and Uptown Dubai districts. The company name carries the DMCC suffix. Capital is paid in full; a company secretary and an annual audit are mandatory.
+
+- Emirate: Dubai
+- Type: Free zone
+- Company form: DMCC
+- Business activities in the catalogue: 1,006 (checked 2026-10-19)
+- Activities with a regulator's approval before the licence: 469; after the licence: 260
+
+### Who it suits
+- Trading in commodities, gold and precious metals
+- Holding companies, SPVs and family offices
+- Companies that need an office in JLT or Uptown Dubai
+- Branches and subsidiaries of international groups
+
+### Licence types
+- Service: 583
+- Trading: 391
+- Industrial: 27
+- Commercial: 5
+DMCC licences are service, trading or industrial. One licence covers up to 6 business activities from one section.
+
+### Steps and timelines
+1. Package, activities and office. Flexi desk, co-working or office; the number of visas depends on the office.
+2. Pre-approval. Online application: name, activities, shareholders, director, secretary, manager, UBOs from 25%. Valid for 90 days.
+3. Payment and electronic signing. Signing of the documents and the articles of association (AoA).
+4. Capital. Shares are paid in full.
+5. Office. Ejari or a DMCC lease agreement.
+6. Electronic licence. Issued after registration.
+7. Establishment card and visas. The establishment card is needed for visas.
+
+According to DMCC, registration takes about 10 working days. A new visa takes up to 20 working days; a visa renewal takes 3–5 working days.
+
+### Do I need to come to the UAE?
+The application and signing are done online. For a residence visa you need to be in the UAE.
+
+### Documents
+- Passport; UAE visa and Emirates ID, if any
+- Proof of address: utility bill or bank statement
+- For a corporate shareholder: ownership structure, MoA/AoA and parent company documents
+- Office documents and proof of capital
+
+### Visas
+The number of visas depends on the office: 1 on a flexi desk from the Basic Biz package, 3 on a standard flexi desk or co-working, more with an office. Medical insurance and employer's liability insurance are mandatory.
+
+### Regulator approvals
+In the DMCC catalogue, 469 business activities require regulator approval before the licence and 260 after it. Below are examples from the catalogue; for your business activity the consultant names the authority, the stage and the timelines.
+- Pharmacy: DHA (Dubai Health Authority), before the licence
+- Golf Club: DSC (Dubai Sports Council), before the licence
+- Gold Refinery: MoIAT (Ministry of Industry and Advanced Technology), before the licence
+- College: SIRA (Security Industry Regulatory Agency), after the licence
+- Roastery: DM (Dubai Municipality), after the licence
+- Pets Nursery: MOCCAE (Ministry of Climate Change and Environment), after the licence
+
+- For branches and subsidiaries, a certificate of good standing of the parent company is needed at every renewal.
+- An existing company can be moved to DMCC and keep its brand.
+
+### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+| | No visa | 1 visa | 2 visas |
+|---|---|---|---|
+| Licence and registration | 35,484 | 35,484 | 43,780 |
+| Visa: quota, entry, processing | — | 3,088 | 3,202 |
+| Medical test and Emirates ID | — | 1,221 | 2,443 |
+| Minimum medical insurance | — | 500 | 1,000 |
+| First year, total | from 35,484 | from 40,293 | from 50,425 |
+| Renewal per year | from 36,265 | from 38,590 | from 39,090 |
+
+The cost depends on the business activity, number of visas and office. Incorpium's own AI consultant calculates it in the chat line by line, with the first year and renewal shown separately, using the current Incorpium database.
+
+## Opening a company on the Dubai mainland
+URL: https://incorpium.com/en/zones/dubai-mainland/
+
+The Dubai mainland means a licence from the Department of Economy and Tourism (DET). With it you can work across Dubai and with government clients, without the “inside the zone only” restriction. The licence, immigration and MOHRE are three separate registrations.
+
+- Emirate: Dubai
+- Type: Mainland
+- Company form: LLC
+- Business activities in the catalogue: 2,023 (checked 2026-10-13)
+- Activities with a regulator's approval before the licence: 1,204; after the licence: 809
+
+### Who it suits
+- Retail shops, restaurants and cafés
+- Construction, renovation and manufacturing
+- Companies that serve clients across Dubai and government clients
+- Professional services with a DET licence
+
+### Licence types
+- Professional: 1,127
+- Commercial: 516
+- Industrial: 380
+DET licences are professional, commercial or industrial. Foreign ownership restrictions are checked in the DET catalogue for each business activity.
+
+### Steps and timelines
+1. Legal form and activities. LLC, sole establishment or branch; check of DET codes and regulators.
+2. Name and initial approval. The name is reserved first, because the Ejari is issued in that name. DET initial approval includes a security check of the owners.
+3. Approvals before the licence. Municipality, health, police, civil defence and others, if the business activity requires them.
+4. Premises and Ejari. A business centre office is enough to start; a restaurant, shop, warehouse or factory needs real premises.
+5. MOA. Signing the memorandum; if the client is not in the UAE, with an online notary.
+6. Licence. Payment of the DET voucher and issue of the licence.
+7. Immigration and MOHRE. Establishment card and a file with the labour ministry, then visas.
+
+The timeline depends on approvals and premises. Name and initial approval usually take 1 working day; regulator approvals take from 1 to 30 working days. The consultant names the timelines for your business activity.
+
+### Do I need to come to the UAE?
+The memorandum can be signed with an online notary if you are not in the UAE. For the visa you need to come: medical test and biometrics.
+
+### Documents
+- Passport, and the visa and Emirates ID of the shareholder and manager, if any
+- Photo
+- For a corporate shareholder: articles and certificate of incorporation, legalised and translated into Arabic
+- For regulated activities: diplomas and proof of experience
+
+### Visas
+Employees need a MOHRE work permit; a shareholder gets a partner or investor visa. The employment contract is registered with MOHRE, and salaries are paid through WPS. The number of visas depends on the premises.
+
+### Regulator approvals
+In the Dubai mainland catalogue, 1204 business activities require regulator approval before the licence and 809 after it. Below are examples from the catalogue; for your business activity the consultant names the authority, the stage and the timelines.
+- Plumbing & Sanitary Contracting: DM (Dubai Municipality), before the licence
+- Snack Food Trading: DECCA (Dubai Environment and Climate Change Authority), before the licence
+- Medical, Surgical Articles & Requisites Trading: DHA (Dubai Health Authority), before the licence
+- Ladies Wears Tailoring & Embroidery: MoIAT (Ministry of Industry and Advanced Technology), after the licence
+- Imitation Jewellery Trading: SIRA (Security Industry Regulatory Agency), after the licence
+- Marketing Management: NMA (National Media Authority), after the licence
+
+- Advertising and signage need separate permits.
+- Renewal is often combined with changes: change of name, memorandum or shareholders.
+
+### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+| | No visa | 1 visa | 2 visas |
+|---|---|---|---|
+| Licence and registration | 18,381 | 18,381 | 18,381 |
+| Office or workspace | 4,725 | 4,725 | 4,725 |
+| Establishment card and e-channel | — | 580 | 580 |
+| Visa: quota, entry, processing | — | 3,063 | 5,411 |
+| Medical test and Emirates ID | — | 1,136 | 2,272 |
+| Minimum medical insurance | — | 500 | 1,000 |
+| First year, total | from 23,106 | from 28,385 | from 32,369 |
+| Renewal per year | from 17,000 | from 17,500 | from 18,000 |
+
+The cost depends on the business activity, number of visas and office. Incorpium's own AI consultant calculates it in the chat line by line, with the first year and renewal shown separately, using the current Incorpium database.
+
+## Opening a company in DAFZ
+URL: https://incorpium.com/en/zones/dafz/
+
+DAFZ (Dubai Airport Freezone) is a free zone next to Dubai airport and part of DIEZ. Companies are registered as an FZCO or a branch. The licence is issued together with a lease of premises: from a smart office to a standard office and warehouse.
+
+- Emirate: Dubai
+- Type: Free zone
+- Company form: FZCO
+- Business activities in the catalogue: 2,044 (checked 2026-10-21)
+- Activities with a regulator's approval before the licence: 1,157; after the licence: 992
+
+### Who it suits
+- Trading and logistics linked to air freight
+- Manufacturing and industrial activities
+- Companies that need a real office near the airport
+- Branches of international groups and company transfers from other zones
+
+### Licence types
+- Industrial: 970
+- Service: 599
+- Trading: 325
+The DAFZ catalogue has the most industrial activities, followed by service and trading ones. One licence covers activities from one group.
+
+### Steps and timelines
+1. Application assessment. DAFZ decides whether such a business can be opened and grants access to the portal.
+2. Online application. Name, manager and their nationality, shareholder's country, business activity, office type and area, legal form.
+3. Lease and invoice. Lease agreement for the premises and payment.
+4. Documents and signing. After payment, the documents are submitted and the MOA and resolution are signed.
+5. Licence. Issued after registration.
+6. After registration. PO Box, establishment card and visas through DAFZ Business Support.
+
+According to DAFZ letters from 2026, a new company is set up in 2–3 weeks.
+
+### Do I need to come to the UAE?
+The application is completed online on the DAFZ portal. For a residence visa you need to be in the UAE: medical test and biometrics.
+
+### Documents
+- Passport and UAE visa (if any) of the shareholder and manager
+- Business plan for 5 years
+- Shareholder's personal bank statement for 3–6 months
+- NOC from the manager's current sponsor, if they already hold a UAE visa
+- Proof of address of the ultimate owner
+- For a corporate shareholder: certificate of incorporation, MoA/AoA, profile and financial statements of the parent company
+
+### Visas
+The number of visas depends on the premises: 1–2 on a smart office, 6 on a 50 m² office, 20–30 on warehouses. The zone has a Government Service Centre with GDRFA and a DHA clinic.
+
+### Regulator approvals
+In the DAFZ catalogue, 1157 business activities require regulator approval before the licence and 992 after it. Below are examples from the catalogue; for your business activity the consultant names the authority, the stage and the timelines.
+- Goldsmith: DECCA (Dubai Environment and Climate Change Authority), before the licence
+- Gold refinery: DM (Dubai Municipality), before the licence
+- Travel Agency: DCAA (Dubai Civil Aviation Authority), before the licence
+- Rice milling: MoIAT (Ministry of Industry and Advanced Technology), after the licence
+- Hotels: SIRA (Security Industry Regulatory Agency), after the licence
+- Gaming Publisher: NMA (National Media Authority), after the licence
+
+- A company from another free zone can be moved to DAFZ with a NOC from its current zone.
+- A transfer is not possible if the company is in liquidation.
+
+### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+| | No visa | 1 visa | 2 visas |
+|---|---|---|---|
+| Licence and registration | 22,500 | 22,560 | 22,620 |
+| Office or workspace | 16,250 | 16,250 | 16,250 |
+| Establishment card and e-channel | 2,020 | 2,020 | 2,020 |
+| Visa: quota, entry, processing | — | 3,323 | 6,646 |
+| Minimum medical insurance | — | 500 | 1,000 |
+| First year, total | from 40,770 | from 44,653 | from 48,536 |
+| Renewal per year | not published | not published | not published |
+
+The cost depends on the business activity, number of visas and office. Incorpium's own AI consultant calculates it in the chat line by line, with the first year and renewal shown separately, using the current Incorpium database.
+
+## Opening a company in Dubai South
+URL: https://incorpium.com/en/zones/dubai-south/
+
+Dubai South Free Zone is a free zone of Dubai Aviation City Corporation near Al Maktoum airport (DWC). Companies are registered as a DWC-LLC or a branch. For start-ups there is the Dubai South Business Hub: a digital licence with a flexi-desk.
+
+- Emirate: Dubai
+- Type: Free zone
+- Company form: DWC-LLC
+- Business activities in the catalogue: 867 (checked 2026-10-20)
+- Activities with a regulator's approval before the licence: 421; after the licence: 152
+
+### Who it suits
+- Logistics, aviation and e-commerce
+- Start-ups, through the Business Hub with a flexi-desk
+- Freelancers: an individual licence without a lease
+- Companies that need a warehouse or office near DWC
+
+### Licence types
+- Commercial: 436
+- Service: 333
+- Industrial: 35
+For a DWC-LLC a lease in the zone is mandatory and a minimum capital applies. In the Business Hub one licence covers up to five groups of activities.
+
+### Steps and timelines
+1. Documents. Registration and licence application, authorization card, specimen signature, MOA and AOA, passport; identity is verified by video call.
+2. Approvals. Dubai South obtains all approvals in 3–5 working days.
+3. UBO online. A link to fill in the ultimate beneficial owner details.
+4. Invoice and agreement. Payment and the Service Agreement for signature.
+5. Licence. The licence, MOA and AOA are issued electronically.
+6. Establishment card and visas. Establishment card and visas through the portal: 24–48 hours.
+
+Approvals take 3–5 working days, the establishment card 24–48 hours. In the Business Hub the licence is issued on the same day once all approvals are in.
+
+### Do I need to come to the UAE?
+If the documents are signed through DocuSign, no originals are needed: the licence, MOA and AOA are issued electronically. You need to come for the visa.
+
+### Documents
+- Passport; identity is confirmed by video call
+- Application forms, authorization card and specimen signature
+- MOA and AOA
+- For a freelancer: passport, visa and Emirates ID (if any), photo, CV, sponsor's NOC (if any)
+
+### Visas
+For a DWC-LLC, visas are calculated from the lease: one visa per 6 m². In the Business Hub, visas, medical tests and Emirates ID are handled by the Beyond Hub service.
+
+### Regulator approvals
+In the Dubai South catalogue, 421 business activities require regulator approval before the licence and 152 after it. Below are examples from the catalogue; for your business activity the consultant names the authority, the stage and the timelines.
+- Gold Refinery: DM (Dubai Municipality), before the licence
+- Travel Agent: DCAA (Dubai Civil Aviation Authority), before the licence
+- Grains Packaging: MoIAT (Ministry of Industry and Advanced Technology), before the licence
+- College: SIRA (Security Industry Regulatory Agency), after the licence
+- Helicopter Rental: GCAA (General Civil Aviation Authority), after the licence
+- Fodder Trading: MOCCAE (Ministry of Climate Change and Environment), after the licence
+
+- Renewal is submitted 90 days before the licence expires.
+- Some business activities require a physical office.
+
+### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+| | No visa | 1 visa | 2 visas |
+|---|---|---|---|
+| Licence and registration | 12,500 | 15,950 | 22,985 |
+| Visa: quota, entry, processing | — | 2,800 | 5,600 |
+| Medical test and Emirates ID | — | 904 | 1,808 |
+| Minimum medical insurance | — | 500 | 1,000 |
+| First year, total | from 12,500 | from 20,154 | from 31,393 |
+| Renewal per year | from 12,500 | from 16,450 | from 23,985 |
+
+The cost depends on the business activity, number of visas and office. Incorpium's own AI consultant calculates it in the chat line by line, with the first year and renewal shown separately, using the current Incorpium database.
+
+## Opening a company in DIFC
+URL: https://incorpium.com/en/zones/difc/
+
+DIFC (Dubai International Financial Centre) is a financial free zone in Dubai. It has its own law based on English common law and its own courts. Financial services in DIFC are regulated by the DFSA and require a DFSA licence; non-financial companies are registered by the DIFC registrar.
+
+- Emirate: Dubai
+- Type: Free zone
+- Company form: Private Company
+- Business activities in the catalogue: 323 (checked 2026-10-19)
+- Activities with a regulator's approval before the licence: 84; after the licence: 108
+
+### Who it suits
+- Banks, asset management, brokers and fintech, with a DFSA licence
+- Holding companies, family offices and SPVs
+- Consulting and professional services for the financial sector
+- Companies for which common law and the DIFC courts matter
+
+### Licence types
+- Retail: 187
+- Non-Retail: 136
+A financial company first needs a DFSA “in principle” letter, then registration in DIFC and a DFSA licence. A non-financial company gets a DIFC commercial licence.
+
+### Steps and timelines
+1. Registration on the DIFC portal. The passport is verified digitally in a few minutes.
+2. Initial Approval. Company, business activities, source of funds, controllers and officers; a DIFC manager reviews the application within 3 working days.
+3. Address in DIFC. Lease or sublease of premises; the agreement is registered within 20 days.
+4. Registration and articles of association. The articles are signed on the portal, and the establishment card application can be submitted at the same time. Registration takes 4 working days.
+5. Certificate and commercial licence. About 5 working days, according to the DIFC registrar.
+6. Establishment card and visas. The establishment card takes 3 working days, a visa about 7 working days.
+
+For a non-financial company: Initial Approval takes 3 working days, registration 4 and the licence about 5 working days, according to the DIFC registrar. For a financial company the timeline is set by the DFSA and depends on the type of financial services.
+
+### Do I need to come to the UAE?
+The application is submitted online on the DIFC portal, and the passport is verified digitally. For a visa you need to be in the UAE: medical test and biometrics.
+
+### Documents
+- Passports of the controllers and officers
+- Information on the source of funds
+- Documents from the DIFC checklist for a non-financial or retail company
+- Lease or sublease agreement in DIFC
+- For a financial company: a regulatory business plan for the DFSA
+
+### Visas
+The establishment card comes first: 3 working days, or 1 when expedited. A new visa: an electronic entry permit in 2 working days, then the medical test, Emirates ID and a DIFC employee card. The whole process takes about 7 working days, or 3 when expedited. The number of visas depends on the office area.
+
+### Regulator approvals
+In the DIFC catalogue, 84 business activities require regulator approval before the licence and 108 after it. Below are examples from the catalogue; for your business activity the consultant names the authority, the stage and the timelines.
+- Nursery: KHDA (Knowledge and Human Development Authority), before the licence
+- Legal Consultants: DFSA (Dubai Financial Services Authority), before the licence
+- Pharmacy: DHA (Dubai Health Authority), before the licence
+- College: SIRA (Security Industry Regulatory Agency), after the licence
+- Roastery: DM (Dubai Municipality), after the licence
+- Film Developing: NMA (National Media Authority), after the licence
+
+- The commercial licence is renewed every year together with the confirmation statement and the data protection notification.
+- Voluntary liquidation in DIFC takes about 10 working days.
+
+### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+| | No visa | 1 visa | 2 visas |
+|---|---|---|---|
+| Licence and registration | 73,470 | 73,470 | 73,470 |
+| Office or workspace | 18,000 | 18,000 | 35,000 |
+| Establishment card and e-channel | — | 2,290 | 2,290 |
+| Visa: quota, entry, processing | — | 3,970 | 7,940 |
+| Medical test and Emirates ID | — | 676 | 1,353 |
+| Minimum medical insurance | — | 500 | 1,000 |
+| First year, total | from 91,470 | from 98,906 | from 121,053 |
+| Renewal per year | from 63,192 | from 65,982 | from 83,482 |
+
+The cost depends on the business activity, number of visas and office. Incorpium's own AI consultant calculates it in the chat line by line, with the first year and renewal shown separately, using the current Incorpium database.
+
+## Opening a company in SHAMS
+URL: https://incorpium.com/en/zones/shams/
+
+SHAMS (Sharjah Media City Free Zone) is a free zone in Sharjah. Companies are registered as an LLC without “FZ” in the name. The Media and Standard packages include up to five business activities and a flexi desk.
+
+- Emirate: Sharjah
+- Type: Free zone
+- Company form: LLC
+- Business activities in the catalogue: 1,879 (checked 2026-11-11)
+- Activities with a regulator's approval before the licence: 192; after the licence: 369
+
+### Who it suits
+- Media, content, bloggers and marketing
+- Consulting, services and e-commerce
+- Small companies and start-ups
+- Companies that need many visas on one licence
+
+### Licence types
+- Standard (any activities): 1,404
+- Media: 475
+The Media package is for five media activities, Standard for any five. For some activities the licence is issued under a fast-track procedure.
+
+### Steps and timelines
+1. Package and activities. Media or Standard; check of PRE and POST approvals.
+2. Name check. Name Check on the SHAMS website.
+3. Application and payment. Form, passports and photos; payment online, including in instalments.
+4. Licence. Licence, flexi desk agreement and constitutional documents in electronic form.
+5. Approvals. PRE before work starts, POST after the licence is issued and before the activity begins.
+6. E-channel and immigration card. Needed for any visa.
+7. Visas. Entry permit, medical test, visa and Emirates ID.
+
+According to SHAMS, the fast-track licence is issued “in 60 minutes” for 1,604 business activities. The Emirates ID is usually ready 7–10 working days after biometrics.
+
+### Do I need to come to the UAE?
+Registration is done online, and no NOC from an employer is needed. For the visa you need to come: medical test and biometrics.
+
+### Documents
+- Passport of each shareholder and manager
+- Photo on a white background, without glasses
+- For UAE residents: visa and Emirates ID
+- For a corporate shareholder: licence, articles and board resolution; legalisation at the request of SHAMS
+- For some activities: business plan, CV and declarations
+
+### Visas
+According to the SHAMS FAQ, up to 50 visas can be issued on one licence; more than 10 require a business plan and statements. Family visas are processed through SHAMS. Citizens of some countries need a preliminary medical check at the UAE embassy.
+
+### Regulator approvals
+In the SHAMS catalogue, 192 business activities require regulator approval before the licence and 369 after it. Below are examples from the catalogue; for your business activity the consultant names the authority, the stage and the timelines.
+- Reinsurance: CBUAE (Central Bank of the UAE), before the licence
+- Short messages services: TDRA (Telecommunications and Digital Government Regulatory Authority), before the licence
+- Activities of opticians: SHA (Sharjah Health Authority), before the licence
+- Printing: NMA (National Media Authority), after the licence
+- Cafeterias: Sharjah Municipality (Sharjah City Municipality), after the licence
+- Electrical installation: Sharjah Civil Defence (Sharjah Civil Defence Authority), after the licence
+
+- After registration the company keeps a UBO register with SHAMS and has an annual audit.
+- Social media advertising requires a separate permit from the National Media Authority.
+
+### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+| | No visa | 1 visa | 2 visas |
+|---|---|---|---|
+| Licence and registration | 6,885 | 8,485 | 10,085 |
+| Establishment card and e-channel | — | 2,920 | 2,920 |
+| Visa: quota, entry, processing | — | 3,700 | 7,400 |
+| Medical test and Emirates ID | — | 695 | 1,390 |
+| Minimum medical insurance | — | 320 | 640 |
+| First year, total | from 6,885 | from 16,120 | from 22,435 |
+| Renewal per year | from 6,885 | from 8,805 | from 10,725 |
+
+The cost depends on the business activity, number of visas and office. Incorpium's own AI consultant calculates it in the chat line by line, with the first year and renewal shown separately, using the current Incorpium database.
+
+## Opening a company in SPC Free Zone
+URL: https://incorpium.com/en/zones/spc/
+
+SPC Free Zone (Sharjah Publishing City) is a free zone in Sharjah built around publishing. Today it registers trading, service and media companies. The licence covers up to five groups of activities and is issued for 1 to 10 years.
+
+- Emirate: Sharjah
+- Type: Free zone
+- Company form: FZE
+- Business activities in the catalogue: 1,964 (checked 2026-11-11)
+- Activities with a regulator's approval before the licence: 195; after the licence: 1,131
+
+### Who it suits
+- Publishers, media and content
+- Trading and services
+- Companies that want a licence for several years ahead
+- Remote registration without a visit to the UAE
+
+### Licence types
+- Wholesale and retail trade: 759
+- Publishing: 507
+- Administrative and support services: 187
+- Professional, scientific and technical: 178
+- Other services: 81
+- Household activities: 55
+- Transportation and storage: 51
+- Financial and insurance: 38
+The licence rate is set by the most expensive activity. The SPC catalogue follows the sections of the international classification.
+
+### Steps and timelines
+1. Activities and name. Up to five groups; Name Check on the SPC website.
+2. Package contents. Licence term from 1 to 10 years, shareholders, visas, additional services.
+3. Documents and payment. Through the portal or an SPC consultant.
+4. Licence. Licence, MOA and electronic documents within 24 hours.
+5. Approvals. For regulated activities, the authority listed in the catalogue.
+6. Establishment card and e-channel. Needed if the company needs visas.
+7. Visas and bank. Entry permit, medical test, visa and Emirates ID.
+
+Under SPC terms the licence is issued within 24 hours. A residence visa usually takes 5–10 working days, a family visa 7–9 working days.
+
+### Do I need to come to the UAE?
+SPC allows a company to be opened remotely. For a residence visa you need to come.
+
+### Documents
+- Passport and photo of each shareholder
+- For UAE residents: visa and Emirates ID
+- For a corporate shareholder: licence, articles and board resolution, legalised
+
+### Visas
+The SPC website does not state a limit on the visa quota. Medical insurance for the visa is arranged separately. Family visas go through SPC Plus.
+
+### Regulator approvals
+In the SPC Free Zone catalogue, 195 business activities require regulator approval before the licence and 1131 after it. Below are examples from the catalogue; for your business activity the consultant names the authority, the stage and the timelines.
+- Travel and Tourism: SDCA (Sharjah Department of Civil Aviation), before the licence
+- Wholesale of semiconductor devices: TDRA (Telecommunications and Digital Government Regulatory Authority), before the licence
+- Medical Gas Trading: SHA (Sharjah Health Authority), before the licence
+- Printing: Sharjah Civil Defence (Sharjah Civil Defence Authority), after the licence
+- Publicity: NMA (National Media Authority), after the licence
+- Cafeterias: Sharjah Municipality (Sharjah City Municipality), after the licence
+
+- A surcharge applies to the sixth and each further group of activities.
+- For regulated activities the authority's fee is paid separately.
+
+### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+| | No visa | 1 visa | 2 visas |
+|---|---|---|---|
+| Licence and registration | 6,885 | 6,885 | 6,885 |
+| Establishment card and e-channel | — | 2,920 | 2,920 |
+| Visa: quota, entry, processing | — | 5,665 | 11,330 |
+| Medical test and Emirates ID | — | 354 | 708 |
+| Minimum medical insurance | — | 320 | 640 |
+| First year, total | from 6,885 | from 16,144 | from 22,483 |
+| Renewal per year | from 6,885 | from 8,805 | from 10,725 |
+
+The cost depends on the business activity, number of visas and office. Incorpium's own AI consultant calculates it in the chat line by line, with the first year and renewal shown separately, using the current Incorpium database.
+
+## Opening a company in RAKEZ
+URL: https://incorpium.com/en/zones/rakez/
+
+RAKEZ (Ras Al Khaimah Economic Zone) is the economic zone of Ras Al Khaimah. Companies are registered as an FZ-LLC (1 to 50 shareholders) or a branch. RAKEZ also issues licences for working in Ras Al Khaimah outside the free zone. Incorpium is a RAKEZ partner.
+
+- Emirate: Ras Al Khaimah
+- Type: Free zone
+- Company form: FZ-LLC
+- Business activities in the catalogue: 3,395 (checked 2026-10-19)
+- Activities with a regulator's approval before the licence: 676; after the licence: 1,603
+
+### Who it suits
+- Manufacturing, warehouses and industry
+- Trading and services
+- Freelancers
+- Companies that also need to operate in Ras Al Khaimah itself
+
+### Licence types
+- Industrial: 1,238
+- Commercial: 1,071
+- Professional: 456
+- Services: 299
+- Media: 130
+- Freelance permit: 100
+- Education: 64
+- Individual professional: 24
+Leasing premises is mandatory: co-working is included in the packages, offices and warehouses are separate. Capital depends on the business activity. An audit is mandatory, and the financial year is the calendar year.
+
+### Steps and timelines
+1. Legal form and package. FZ-LLC or branch, free zone or a licence outside the free zone.
+2. Business activities. Capital, approvals, restrictions for co-working.
+3. Pre-approval. Immigration approves the investor, partner and manager.
+4. Documents and application. Incorpium submits the application through the RAKEZ Agent Portal.
+5. Review and payment. Online, with no visits; usually 4–5 working days after the documents and approval.
+6. Licence. Licence, certificate of incorporation, MOA, bank letter and lease agreement.
+7. Immigration card and e-channel. Done by RAKEZ, needed for any visa.
+8. Visas. Standard 6 working days, VIP 3; medical test and biometrics on the same day.
+
+Usually 4–5 working days from a full set of documents and pre-approval to the licence. The visa takes another 3–6 working days.
+
+### Do I need to come to the UAE?
+Registration is done online, with no visits. For the visa you need to come for the medical test and biometrics, which are done on the same day.
+
+### Documents
+- Passport; for UAE residents, visa or Emirates ID; for others, an entry stamp is accepted
+- Application forms and, for some activities, a business plan
+- For a corporate shareholder: resolution, certificate of incorporation, good standing, articles, power of attorney and UBO declaration, legalised
+- For DNFBPs (lawyers, real estate, audit, precious metals): the DNFBP form
+
+### Visas
+RAKEZ sponsors visas for all its companies. Quota: flexi desk and co-working 1 visa, serviced office 2 visas per desk, warehouse 1 visa per 15 m². A single shareholder gets an investor visa; several shareholders get partner visas.
+
+### Regulator approvals
+In the RAKEZ catalogue, 676 business activities require regulator approval before the licence and 1603 after it. Below are examples from the catalogue; for your business activity the consultant names the authority, the stage and the timelines.
+- Site levelling: RAK Municipality (Ras Al Khaimah Municipality Department), before the licence
+- Pharmacy: MOHAP (Ministry of Health and Prevention), before the licence
+- Air Cargo Agent: RAK DCA (Ras Al Khaimah Department of Civil Aviation), before the licence
+- Labeling: RAK Police (Ras Al Khaimah Police General Headquarters), after the licence
+- Wig Making: MoIAT (Ministry of Industry and Advanced Technology), after the licence
+- Grain Mills: Civil Defence (Civil Defence Authority (NCEMA)), after the licence
+
+- For industry and warehouses, EPDA, civil defence, CCTV and FEWA are needed after the licence.
+- A company can be moved to RAKEZ from another jurisdiction.
+
+### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+| | No visa | 1 visa | 2 visas |
+|---|---|---|---|
+| Licence and registration | 6,000 | 12,000 | 14,000 |
+| Visa: quota, entry, processing | — | — | 4,000 |
+| Minimum medical insurance | — | 320 | 640 |
+| First year, total | from 6,000 | from 12,320 | from 18,640 |
+| Renewal per year | not published | not published | from 18,640 |
+
+The cost depends on the business activity, number of visas and office. Incorpium's own AI consultant calculates it in the chat line by line, with the first year and renewal shown separately, using the current Incorpium database.
+
+## Opening a company in Ajman Free Zone
+URL: https://incorpium.com/en/zones/ajman-free-zone/
+
+Ajman Free Zone (AFZ) is the free zone of the Free Zones Authority of Ajman. Companies are registered as an FZE, FZC or branch. Premises are chosen from a business centre, smart office, office, warehouse or land.
+
+- Emirate: Ajman
+- Type: Free zone
+- Company form: FZE / FZC
+- Business activities in the catalogue: 1,811 (checked 2026-10-28)
+- Activities with a regulator's approval before the licence: 540; after the licence: 558
+
+### Who it suits
+- Small businesses and start-ups
+- Trading, warehouses and manufacturing
+- Freelancers
+- E-commerce
+
+### Licence types
+- Services: 643
+- Commercial: 613
+- Industrial: 416
+- Freelancer: 124
+- E-commerce: 13
+- General trading: 2
+AFZ licences: commercial, industrial, service, e-commerce, freelance and Pioneers. Some business activities require a NOC.
+
+### Steps and timelines
+1. Legal form, licence and premises. FZE, FZC or branch; business centre, smart office, office, warehouse.
+2. Business activities. From the AFZ list; check whether a NOC is needed.
+3. Package contents. Area, package, premises and visas.
+4. Online application. Through the AFZ portal, with documents.
+5. Security approval. ICP approves the shareholders and manager; the approval is valid for one month.
+6. Licence and lease agreement. AFZ issues the licence and the lease agreement for the premises.
+7. Establishment card and e-channel. About 3 working days according to the FAQ.
+8. Visas. Each visa step at AFZ takes about 8 hours.
+
+The application is submitted online. The establishment card takes about 3 working days, and each visa step about 8 hours. The zone does not publish the overall timeline for the licence; the consultant will give it from our data.
+
+### Do I need to come to the UAE?
+The application is submitted online through the AFZ portal. For the visa you need to come: medical test and biometrics.
+
+### Documents
+- Passport valid for more than 6 months and a colour photo of each partner
+- For UAE residents: copy of the visa or UID and the sponsor's NOC
+- For a branch: passport, photo and visa of the manager, licence, MOA and board resolution of the parent company
+- For the manager: university degree legalised at the UAE embassy and the UAE Ministry of Foreign Affairs and translated into Arabic
+
+### Visas
+The visa quota depends on the package and premises: office 2 visas, freelance 2, Pioneers 1; more with an additional quota. After a visa is cancelled, a 30-day grace period applies.
+
+### Regulator approvals
+In the Ajman Free Zone catalogue, 540 business activities require regulator approval before the licence and 558 after it. Below are examples from the catalogue; for your business activity the consultant names the authority, the stage and the timelines.
+- Steel Rebar: Civil Defence (Civil Defence Authority (NCEMA)), before the licence
+- Fuel Manufacturing: Petroleum Products Committee (Committee for Regulating the Trading of Petroleum Products – Ajman), before the licence
+- Pharmacy: MOHAP (Ministry of Health and Prevention), before the licence
+- Printing: MoIAT (Ministry of Industry and Advanced Technology), after the licence
+- Animator: NMA (National Media Authority), after the licence
+- animals Pets Raising: MOCCAE (Ministry of Climate Change and Environment), after the licence
+
+- Without a request to AFZ the exact package contents are not known; the consultant will check them for your case.
+- The medical test and Emirates ID are processed separately from the zone fees.
+
+### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+| | No visa | 1 visa | 2 visas |
+|---|---|---|---|
+| Licence and registration | 5,565 | 13,141 | 17,181 |
+| Minimum medical insurance | — | 320 | 640 |
+| First year, total | from 5,565 | from 13,461 | from 17,821 |
+| Renewal per year | from 5,555 | from 13,461 | from 17,821 |
+
+The cost depends on the business activity, number of visas and office. Incorpium's own AI consultant calculates it in the chat line by line, with the first year and renewal shown separately, using the current Incorpium database.
+
+## Frequently asked questions
+
+### What is the Incorpium AI consultant?
+It is Incorpium's own AI consultant for opening a company in the UAE. It answers from the Incorpium database: 36 free zones, 8 mainlands and 145 regulators, with every price carrying a source and the date it was checked. If data is missing, the consultant says so and passes the question to an Incorpium specialist.
+
+### How much does it cost to open a company in the UAE?
+The total depends on the zone, business activity, number of visas and office. According to the Incorpium database, zone and government fees for a company with one visa in popular zones are from about {min} to {max} AED in the first year, excluding Incorpium services. The consultant calculates the exact amount in the chat line by line: zone fees, visas, approvals and Incorpium services, with the first year and renewal shown separately.
+
+### Do I need to come to the UAE?
+In many free zones company registration is done online. For a residence visa you need to come: a medical test and fingerprints for the Emirates ID. The consultant will explain how it works in the zone you choose.
+
+### Does my business activity need approvals?
+Some activities do. For example, mobile phone trading needs TDRA registration before the licence, and a clinic needs a licence from the emirate's health authority. The consultant names the regulator, the stage and the cost for your business activity.
+
+### Which languages does the consultant answer in?
+The consultant answers in the language of the question: Russian, English, German, Arabic, Chinese and others. The site is available in five languages.
+
+### What happens after the calculation?
+When you are ready, the consultant asks for your name and phone number and passes the request to an Incorpium specialist along with the calculation. The specialist contacts you and handles the registration.
