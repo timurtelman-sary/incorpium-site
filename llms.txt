@@ -28,6 +28,13 @@ Facts as of 20 November 2026:
 - [RAKEZ](https://incorpium.com/en/zones/rakez/): Ras Al Khaimah, 3,395 business activities in the catalogue; 676 need a regulator's approval before the licence, 1,603 after. Approximate zone and government fees with 1 visa: from 12,320 AED in the first year (without Incorpium services).
 - [Ajman Free Zone](https://incorpium.com/en/zones/ajman-free-zone/): Ajman, 1,811 business activities in the catalogue; 540 need a regulator's approval before the licence, 558 after. Approximate zone and government fees with 1 visa: from 13,461 AED in the first year, renewal from 13,461 AED a year (without Incorpium services).
 
+## Rankings and comparisons
+- [The cheapest free zones in the UAE](https://incorpium.com/en/free-zones/cheapest/): 33 free zones ranked by approximate zone and government fees for the first year with no visa, 1 and 2 visas, and the renewal (as of 20 November 2026, without Incorpium services). Cheapest first year with one visa: Creative City from 10,569 AED, Ajman NuVentures from 11,120 AED, SRTIP from 11,560 AED. 8 mainlands are ranked on the same basis; 3 jurisdictions publish no full price list.
+- [UAE free zones and mainlands](https://incorpium.com/en/zones/): all 44 jurisdictions by emirate with the type, the number of business activities in the catalogue, the first year with one visa and the renewal.
+- [IFZA or Meydan](https://incorpium.com/en/compare/ifza-vs-meydan/): first year with one visa IFZA from 22,336 AED, Meydan from 22,620 AED; renewal IFZA from 17,600 AED, Meydan from 17,050 AED; business activities in the catalogue IFZA 825, Meydan 2,230.
+- [IFZA or DMCC](https://incorpium.com/en/compare/ifza-vs-dmcc/): first year with one visa IFZA from 22,336 AED, DMCC from 40,293 AED; renewal IFZA from 17,600 AED, DMCC from 38,590 AED; business activities in the catalogue IFZA 825, DMCC 1,006.
+- [SHAMS, SPC or Ajman Free Zone](https://incorpium.com/en/compare/shams-vs-spc-vs-ajman-free-zone/): first year with one visa SHAMS from 16,120 AED, SPC from 16,144 AED, Ajman Free Zone from 13,461 AED; renewal SHAMS from 8,805 AED, SPC from 8,805 AED, Ajman Free Zone from 13,461 AED; business activities in the catalogue SHAMS 1,879, SPC 1,964, Ajman Free Zone 1,811.
+
 ## Languages
 - Russian: https://incorpium.com/
 - English: https://incorpium.com/en/

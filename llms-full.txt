@@ -28,6 +28,13 @@ Facts as of 20 November 2026:
 - [RAKEZ](https://incorpium.com/en/zones/rakez/): Ras Al Khaimah, 3,395 business activities in the catalogue; 676 need a regulator's approval before the licence, 1,603 after. Approximate zone and government fees with 1 visa: from 12,320 AED in the first year (without Incorpium services).
 - [Ajman Free Zone](https://incorpium.com/en/zones/ajman-free-zone/): Ajman, 1,811 business activities in the catalogue; 540 need a regulator's approval before the licence, 558 after. Approximate zone and government fees with 1 visa: from 13,461 AED in the first year, renewal from 13,461 AED a year (without Incorpium services).
 
+## Rankings and comparisons
+- [The cheapest free zones in the UAE](https://incorpium.com/en/free-zones/cheapest/): 33 free zones ranked by approximate zone and government fees for the first year with no visa, 1 and 2 visas, and the renewal (as of 20 November 2026, without Incorpium services). Cheapest first year with one visa: Creative City from 10,569 AED, Ajman NuVentures from 11,120 AED, SRTIP from 11,560 AED. 8 mainlands are ranked on the same basis; 3 jurisdictions publish no full price list.
+- [UAE free zones and mainlands](https://incorpium.com/en/zones/): all 44 jurisdictions by emirate with the type, the number of business activities in the catalogue, the first year with one visa and the renewal.
+- [IFZA or Meydan](https://incorpium.com/en/compare/ifza-vs-meydan/): first year with one visa IFZA from 22,336 AED, Meydan from 22,620 AED; renewal IFZA from 17,600 AED, Meydan from 17,050 AED; business activities in the catalogue IFZA 825, Meydan 2,230.
+- [IFZA or DMCC](https://incorpium.com/en/compare/ifza-vs-dmcc/): first year with one visa IFZA from 22,336 AED, DMCC from 40,293 AED; renewal IFZA from 17,600 AED, DMCC from 38,590 AED; business activities in the catalogue IFZA 825, DMCC 1,006.
+- [SHAMS, SPC or Ajman Free Zone](https://incorpium.com/en/compare/shams-vs-spc-vs-ajman-free-zone/): first year with one visa SHAMS from 16,120 AED, SPC from 16,144 AED, Ajman Free Zone from 13,461 AED; renewal SHAMS from 8,805 AED, SPC from 8,805 AED, Ajman Free Zone from 13,461 AED; business activities in the catalogue SHAMS 1,879, SPC 1,964, Ajman Free Zone 1,811.
+
 ## Languages
 - Russian: https://incorpium.com/
 - English: https://incorpium.com/en/
@@ -840,6 +847,199 @@ In the Ajman Free Zone catalogue, 540 business activities require regulator appr
 | Renewal per year | from 5,555 | from 13,461 | from 17,821 |
 
 The cost depends on the business activity, number of visas and office. Incorpium's own AI consultant calculates it in the chat line by line, with the first year and renewal shown separately, using the current Incorpium database.
+
+## The cheapest free zones in the UAE: Free zones by first-year fees (AED, first year, as of 20 November 2026, without Incorpium services)
+URL: https://incorpium.com/en/free-zones/cheapest/
+
+| # | Zone | Emirate | No visa | 1 visa | 2 visas | Renewal |
+|---|---|---|---|---|---|---|
+| 1 | Creative City | Fujairah | 3,999 | 10,569 | 19,640 | not published |
+| 2 | Ajman NuVentures | Ajman | 4,888 | 11,120 | 16,840 | 10,220 |
+| 3 | SRTIP | Sharjah | 3,999 | 11,560 | 15,835 | 14,310 |
+| 4 | RAKEZ | Ras Al Khaimah | 6,000* | 12,320* | 18,640* | not published |
+| 5 | UAQ Free Trade Zone | Umm Al Quwain | 5,500 | 12,500 | 19,348* | 12,500 |
+| 6 | Innovation City (RAK DAO) | Ras Al Khaimah | 6,600* | 13,200* | 19,800* | 13,200 |
+| 7 | ADAFZ | Abu Dhabi | 6,000 | 13,204* | 16,908 | 12,600 |
+| 8 | Ajman Media City | Ajman | 4,999 | 13,319 | 18,639 | 9,319 |
+| 9 | Ajman Free Zone | Ajman | 5,565 | 13,461 | 17,821 | 13,461 |
+| 10 | SAIF Zone | Sharjah | 10,800 | 15,490* | 20,180* | 13,670 |
+| 11 | SHAMS | Sharjah | 6,885 | 16,120 | 22,435 | 8,805 |
+| 12 | SPC Free Zone | Sharjah | 6,885 | 16,144 | 22,483 | 8,805 |
+| 13 | KEZAD | Abu Dhabi | 9,450 | 16,709* | 23,382* | 5,600 |
+| 14 | Masdar City | Abu Dhabi | 7,350 | 18,975 | 25,700 | not published |
+| 15 | Dubai South | Dubai | 12,500 | 20,154 | 31,393 | 16,450 |
+| 16 | Hamriyah Free Zone | Sharjah | 11,260 | 20,565 | 30,685 | 13,690 |
+| 17 | Expo City Dubai | Dubai | 12,520 | 21,290 | 25,010 | 18,070 |
+| 18 | IFZA | Dubai | 12,900 | 22,336 | 29,772 | 17,600 |
+| 19 | Meydan Free Zone | Dubai | 12,520 | 22,620 | 30,720 | 17,050 |
+| 20 | DWTC | Dubai | 14,545 | 22,699 | 28,553 | 17,345 |
+| 21 | DHCC | Dubai | 16,550* | 22,888* | 27,291* | 17,233 |
+| 22 | Sharjah Healthcare City | Sharjah | 17,900 | 23,097 | 26,894 | 12,320 |
+| 23 | Dubai Silicon Oasis | Dubai | 23,000* | 27,740* | 32,480* | not published |
+| 24 | twofour54 | Abu Dhabi | 21,000 | 29,180 | 33,190 | 35,490 |
+| 25 | Fujairah Free Zone | Fujairah | 22,380* | 31,949* | 45,913* | 21,095 |
+| 26 | IHC | Dubai | 32,064 | 36,240 | 40,417 | 32,564 |
+| 27 | Dubai CommerCity | Dubai | 30,800 | 36,353 | 39,846 | 28,360 |
+| 28 | DMCC | Dubai | 35,484 | 40,293 | 50,425 | 38,590 |
+| 29 | DDA (TECOM) | Dubai | 32,940 | 40,810 | 62,280 | 29,940 |
+| 30 | ADGM | Abu Dhabi | 35,100 | 44,866 | 49,308 | 35,854 |
+| 31 | DAFZ | Dubai | 41,880* | 45,763* | 49,646* | not published |
+| 32 | JAFZA | Dubai | 43,800 | 50,129* | no full price list | 41,475 |
+| 33 | DIFC | Dubai | 91,470* | 98,906* | 121,053* | 65,982 |
+
+## The cheapest free zones in the UAE: Mainlands on the same basis (AED, first year, as of 20 November 2026, without Incorpium services)
+URL: https://incorpium.com/en/free-zones/cheapest/
+
+| # | Zone | Emirate | No visa | 1 visa | 2 visas | Renewal |
+|---|---|---|---|---|---|---|
+| 1 | Sharjah mainland | Sharjah | 5,500* | 10,374* | 13,048* | 21,720 |
+| 2 | Abu Dhabi mainland | Abu Dhabi | 6,890* | 11,590* | 14,290* | 4,210 |
+| 3 | ICAD | Abu Dhabi | 6,890* | 11,590* | 14,290* | 4,160 |
+| 4 | Ajman mainland | Ajman | 11,300* | 16,174* | 18,848* | 12,820 |
+| 5 | Umm Al Quwain mainland | Umm Al Quwain | 16,160* | 21,034* | 23,708* | 16,680 |
+| 6 | Dubai mainland | Dubai | 23,106* | 28,385* | 32,369* | 17,500 |
+| 7 | Ras Al Khaimah mainland | Ras Al Khaimah | 25,500* | 30,374* | 33,048* | 26,420 |
+| 8 | Fujairah mainland | Fujairah | 33,100* | 37,974* | 40,648* | 34,620 |
+
+The first year includes the licence or package, an office where one is mandatory, the establishment card and e-channel, visas with the medical test and Emirates ID, and minimum medical insurance. Refundable deposits are not included.
+* The zone does not publish some fees, or they depend on the business activity, so the total may be higher. Details are on the zone page or in the chat.
+
+### No full price list
+- RAK Maritime City: the first licence is issued only with a plot lease; the zone quotes the rent on request
+- RAK ICC: an offshore company gets no visas and no office; the registered agent's fee is not published
+- FOIZ: a plot lease is needed; the zone quotes the rent on request
+
+## UAE free zones and mainlands
+URL: https://incorpium.com/en/zones/
+
+| Zone | Emirate | Jurisdiction type | Business activities | First year, 1 visa | Renewal |
+|---|---|---|---|---|---|
+| IFZA | Dubai | Free zone | 825 | 22,336 | 17,600 |
+| DMCC | Dubai | Free zone | 1006 | 40,293 | 38,590 |
+| Meydan Free Zone | Dubai | Free zone | 2230 | 22,620 | 17,050 |
+| DAFZ | Dubai | Free zone | 2044 | 45,763* | not published |
+| JAFZA | Dubai | Free zone | 1428 | 50,129* | 41,475 |
+| DIFC | Dubai | Free zone | 323 | 98,906* | 65,982 |
+| Dubai South | Dubai | Free zone | 867 | 20,154 | 16,450 |
+| Dubai CommerCity | Dubai | Free zone | 2043 | 36,353 | 28,360 |
+| Dubai Silicon Oasis | Dubai | Free zone | 54 | 27,740* | not published |
+| DDA (TECOM) | Dubai | Free zone | 638 | 40,810 | 29,940 |
+| DHCC | Dubai | Free zone | 427 | 22,888* | 17,233 |
+| DWTC | Dubai | Free zone | 1269 | 22,699 | 17,345 |
+| Expo City Dubai | Dubai | Free zone | 2528 | 21,290 | 18,070 |
+| IHC | Dubai | Free zone | 55 | 36,240 | 32,564 |
+| Dubai mainland | Dubai | Mainland | 2023 | 28,385* | 17,500 |
+| ADGM | Abu Dhabi | Free zone | 1848 | 44,866 | 35,854 |
+| KEZAD | Abu Dhabi | Free zone | 828 | 16,709* | 5,600 |
+| Masdar City | Abu Dhabi | Free zone | 924 | 18,975 | not published |
+| twofour54 | Abu Dhabi | Free zone | 189 | 29,180 | 35,490 |
+| ADAFZ | Abu Dhabi | Free zone | — | 13,204* | 12,600 |
+| ICAD | Abu Dhabi | Mainland | 984 | 11,590* | 4,160 |
+| Abu Dhabi mainland | Abu Dhabi | Mainland | 4152 | 11,590* | 4,210 |
+| SHAMS | Sharjah | Free zone | 1879 | 16,120 | 8,805 |
+| SPC Free Zone | Sharjah | Free zone | 1964 | 16,144 | 8,805 |
+| SAIF Zone | Sharjah | Free zone | — | 15,490* | 13,670 |
+| Hamriyah Free Zone | Sharjah | Free zone | 1085 | 20,565 | 13,690 |
+| SRTIP | Sharjah | Free zone | 1155 | 11,560 | 14,310 |
+| Sharjah Healthcare City | Sharjah | Free zone | 74 | 23,097 | 12,320 |
+| Sharjah mainland | Sharjah | Mainland | 3561 | 10,374* | 21,720 |
+| RAKEZ | Ras Al Khaimah | Free zone | 3395 | 12,320* | not published |
+| Innovation City (RAK DAO) | Ras Al Khaimah | Free zone | 1396 | 13,200* | 13,200 |
+| RAK Maritime City | Ras Al Khaimah | Free zone | 19 | no full price list | — |
+| RAK ICC | Ras Al Khaimah | Offshore | 21 | no full price list | — |
+| Ras Al Khaimah mainland | Ras Al Khaimah | Mainland | 3711 | 30,374* | 26,420 |
+| Ajman Free Zone | Ajman | Free zone | 1811 | 13,461 | 13,461 |
+| Ajman Media City | Ajman | Free zone | 340 | 13,319 | 9,319 |
+| Ajman NuVentures | Ajman | Free zone | 847 | 11,120 | 10,220 |
+| Ajman mainland | Ajman | Mainland | 3542 | 16,174* | 12,820 |
+| Fujairah Free Zone | Fujairah | Free zone | 54 | 31,949* | 21,095 |
+| Creative City | Fujairah | Free zone | 904 | 10,569 | not published |
+| FOIZ | Fujairah | Free zone | 11 | no full price list | — |
+| Fujairah mainland | Fujairah | Mainland | 3836 | 37,974* | 34,620 |
+| UAQ Free Trade Zone | Umm Al Quwain | Free zone | 116 | 12,500 | 12,500 |
+| Umm Al Quwain mainland | Umm Al Quwain | Mainland | 3846 | 21,034* | 16,680 |
+
+## IFZA or Meydan: fees, licences and timelines compared
+URL: https://incorpium.com/en/compare/ifza-vs-meydan/
+
+With one visa the first year is cheaper in IFZA: from 22,336 AED against 22,620 AED in Meydan. The renewal is cheaper in Meydan: from 17,050 AED a year against 17,600 AED in IFZA.
+
+| | IFZA | Meydan Free Zone |
+|---|---|---|
+| First year, no visa | 12,900 | 12,520 |
+| First year, 1 visa | 22,336 | 22,620 |
+| First year, 2 visas | 29,772 | 30,720 |
+| Renewal, no visa | 12,900 | 12,500 |
+| Renewal, 1 visa | 17,600 | 17,050 |
+| Renewal, 2 visas | 20,100 | 19,400 |
+| Business activities in the catalogue | 825 | 2,230 |
+| Of them with an approval before the licence | 257 | 869 |
+| With an approval after the licence | 159 | 556 |
+| Company form | FZCO | LLC-FZ |
+
+### IFZA
+- Timelines: In Incorpium's practice, it usually takes 3–4 weeks from payment to having the Emirates ID in hand. The licence itself is issued within 2–5 working days of submission.
+- Do I need to come to the UAE? An IFZA company can be opened remotely. You only need to come for the visa, for about 2 days: medical test and biometrics for the Emirates ID.
+
+### Meydan Free Zone
+- Timelines: According to the zone, the licence is issued within 60 minutes of submission and approval; the 60-minute guarantee applies only to Fawri. Investor visa: 5–10 working days.
+- Do I need to come to the UAE? You do not need to come for registration; everything is done online. For the visa you need to be in the UAE: medical test and Emirates ID.
+
+## IFZA or DMCC: fees, licences and timelines compared
+URL: https://incorpium.com/en/compare/ifza-vs-dmcc/
+
+With one visa the first year is cheaper in IFZA: from 22,336 AED against 40,293 AED in DMCC. The renewal is cheaper in IFZA: from 17,600 AED a year against 38,590 AED in DMCC.
+
+| | IFZA | DMCC |
+|---|---|---|
+| First year, no visa | 12,900 | 35,484 |
+| First year, 1 visa | 22,336 | 40,293 |
+| First year, 2 visas | 29,772 | 50,425 |
+| Renewal, no visa | 12,900 | 36,265 |
+| Renewal, 1 visa | 17,600 | 38,590 |
+| Renewal, 2 visas | 20,100 | 39,090 |
+| Business activities in the catalogue | 825 | 1,006 |
+| Of them with an approval before the licence | 257 | 469 |
+| With an approval after the licence | 159 | 260 |
+| Company form | FZCO | DMCC |
+
+### IFZA
+- Timelines: In Incorpium's practice, it usually takes 3–4 weeks from payment to having the Emirates ID in hand. The licence itself is issued within 2–5 working days of submission.
+- Do I need to come to the UAE? An IFZA company can be opened remotely. You only need to come for the visa, for about 2 days: medical test and biometrics for the Emirates ID.
+
+### DMCC
+- Timelines: According to DMCC, registration takes about 10 working days. A new visa takes up to 20 working days; a visa renewal takes 3–5 working days.
+- Do I need to come to the UAE? The application and signing are done online. For a residence visa you need to be in the UAE.
+
+## SHAMS, SPC or Ajman Free Zone: fees, licences and timelines compared
+URL: https://incorpium.com/en/compare/shams-vs-spc-vs-ajman-free-zone/
+
+With one visa the first year is cheaper in Ajman Free Zone: from 13,461 AED against 16,120 AED in SHAMS and 16,144 AED in SPC. The renewal is cheaper in SHAMS and SPC: from 8,805 AED a year against 13,461 AED in Ajman Free Zone.
+
+| | SHAMS | SPC Free Zone | Ajman Free Zone |
+|---|---|---|---|
+| First year, no visa | 6,885 | 6,885 | 5,565 |
+| First year, 1 visa | 16,120 | 16,144 | 13,461 |
+| First year, 2 visas | 22,435 | 22,483 | 17,821 |
+| Renewal, no visa | 6,885 | 6,885 | 5,555 |
+| Renewal, 1 visa | 8,805 | 8,805 | 13,461 |
+| Renewal, 2 visas | 10,725 | 10,725 | 17,821 |
+| Business activities in the catalogue | 1,879 | 1,964 | 1,811 |
+| Of them with an approval before the licence | 192 | 195 | 540 |
+| With an approval after the licence | 369 | 1,131 | 558 |
+| Company form | LLC | FZE | FZE / FZC |
+
+### SHAMS
+- Timelines: According to SHAMS, the fast-track licence is issued “in 60 minutes” for 1,604 business activities. The Emirates ID is usually ready 7–10 working days after biometrics.
+- Do I need to come to the UAE? Registration is done online, and no NOC from an employer is needed. For the visa you need to come: medical test and biometrics.
+
+### SPC Free Zone
+- Timelines: Under SPC terms the licence is issued within 24 hours. A residence visa usually takes 5–10 working days, a family visa 7–9 working days.
+- Do I need to come to the UAE? SPC allows a company to be opened remotely. For a residence visa you need to come.
+
+### Ajman Free Zone
+- Timelines: The application is submitted online. The establishment card takes about 3 working days, and each visa step about 8 hours. The zone does not publish the overall timeline for the licence; the consultant will give it from our data.
+- Do I need to come to the UAE? The application is submitted online through the AFZ portal. For the visa you need to come: medical test and biometrics.
 
 ## Frequently asked questions
 
