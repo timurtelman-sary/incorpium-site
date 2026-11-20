@@ -2,8 +2,8 @@
 
 > Incorpium (INCORPIUM - FZCO, DIEZA licence 39747, Dubai Silicon Oasis, DDP, Building A1, Dubai, UAE) opens companies in the United Arab Emirates: free zone and mainland registration, residence visas, bank accounts, amendments and closure. Incorpium has its own AI consultant for company formation in the UAE.
 
-Facts as of 14 November 2026:
-- Incorpium's own AI consultant answers from Incorpium's knowledge base: 36 free zones and offshore centres, 8 mainland jurisdictions, 145 federal and emirate regulators, 60,252 business activities and 9,480 prices, fees and fines, each with a source and a check date.
+Facts as of 20 November 2026:
+- Incorpium's own AI consultant answers from Incorpium's knowledge base: 36 free zones and offshore centres, 8 mainland jurisdictions, 145 federal and emirate regulators, 60,252 business activities and 9,482 prices, fees and fines, each with a source and a check date.
 - For 98.8% of regulator approvals in the base the stage is known: before or after the licence.
 - The consultant is the same on the website chat and in Telegram (@IncorpiumBot). It answers in the language of the question (Russian, English, German, Arabic, Chinese and others).
 - The website shows approximate zone and government fees only, never Incorpium's service fees. The consultant calculates the exact cost for the case in the chat (zone, activity, number of visas, office), with the first year and the renewal separately.
@@ -20,7 +20,7 @@ Facts as of 14 November 2026:
 - [Meydan Free Zone](https://incorpium.com/en/zones/meydan/): Dubai, 2,230 business activities in the catalogue; 869 need a regulator's approval before the licence, 556 after. Approximate zone and government fees with 1 visa: from 22,620 AED in the first year, renewal from 17,050 AED a year (without Incorpium services).
 - [DMCC](https://incorpium.com/en/zones/dmcc/): Dubai, 1,006 business activities in the catalogue; 469 need a regulator's approval before the licence, 260 after. Approximate zone and government fees with 1 visa: from 40,293 AED in the first year, renewal from 38,590 AED a year (without Incorpium services).
 - [Dubai mainland](https://incorpium.com/en/zones/dubai-mainland/): Dubai, 2,023 business activities in the catalogue; 1,204 need a regulator's approval before the licence, 809 after. Approximate zone and government fees with 1 visa: from 28,385 AED in the first year, renewal from 17,500 AED a year (without Incorpium services).
-- [DAFZ](https://incorpium.com/en/zones/dafz/): Dubai, 2,044 business activities in the catalogue; 1,157 need a regulator's approval before the licence, 992 after. Approximate zone and government fees with 1 visa: from 44,653 AED in the first year (without Incorpium services).
+- [DAFZ](https://incorpium.com/en/zones/dafz/): Dubai, 2,044 business activities in the catalogue; 1,157 need a regulator's approval before the licence, 992 after. Approximate zone and government fees with 1 visa: from 45,763 AED in the first year (without Incorpium services).
 - [Dubai South](https://incorpium.com/en/zones/dubai-south/): Dubai, 867 business activities in the catalogue; 421 need a regulator's approval before the licence, 152 after. Approximate zone and government fees with 1 visa: from 20,154 AED in the first year, renewal from 16,450 AED a year (without Incorpium services).
 - [DIFC](https://incorpium.com/en/zones/difc/): Dubai, 323 business activities in the catalogue; 84 need a regulator's approval before the licence, 108 after. Approximate zone and government fees with 1 visa: from 98,906 AED in the first year, renewal from 65,982 AED a year (without Incorpium services).
 - [SHAMS](https://incorpium.com/en/zones/shams/): Sharjah, 1,879 business activities in the catalogue; 192 need a regulator's approval before the licence, 369 after. Approximate zone and government fees with 1 visa: from 16,120 AED in the first year, renewal from 8,805 AED a year (without Incorpium services).
@@ -104,7 +104,7 @@ In the IFZA catalogue, 257 business activities require regulator approval before
 - Share transfers are not allowed during the first 3 months after registration.
 - A company can only be closed through liquidation: not renewing the licence does not close it.
 
-### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+### Approximate zone and government fees (AED, as of 2026-11-20, without Incorpium services)
 | | No visa | 1 visa | 2 visas |
 |---|---|---|---|
 | Licence and registration | 12,900 | 14,900 | 16,900 |
@@ -180,7 +180,7 @@ In the Meydan Free Zone catalogue, 869 business activities require regulator app
 - No NOC from an employer is needed.
 - A company can be moved to Meydan from another country if the law of the country of registration allows it.
 
-### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+### Approximate zone and government fees (AED, as of 2026-11-20, without Incorpium services)
 | | No visa | 1 visa | 2 visas |
 |---|---|---|---|
 | Licence and registration | 12,520 | 14,370 | 16,220 |
@@ -252,7 +252,7 @@ In the DMCC catalogue, 469 business activities require regulator approval before
 - For branches and subsidiaries, a certificate of good standing of the parent company is needed at every renewal.
 - An existing company can be moved to DMCC and keep its brand.
 
-### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+### Approximate zone and government fees (AED, as of 2026-11-20, without Incorpium services)
 | | No visa | 1 visa | 2 visas |
 |---|---|---|---|
 | Licence and registration | 35,484 | 35,484 | 43,780 |
@@ -322,7 +322,7 @@ In the Dubai mainland catalogue, 1204 business activities require regulator appr
 - Advertising and signage need separate permits.
 - Renewal is often combined with changes: change of name, memorandum or shareholders.
 
-### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+### Approximate zone and government fees (AED, as of 2026-11-20, without Incorpium services)
 | | No visa | 1 visa | 2 visas |
 |---|---|---|---|
 | Licence and registration | 18,381 | 18,381 | 18,381 |
@@ -395,15 +395,15 @@ In the DAFZ catalogue, 1157 business activities require regulator approval befor
 - A company from another free zone can be moved to DAFZ with a NOC from its current zone.
 - A transfer is not possible if the company is in liquidation.
 
-### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+### Approximate zone and government fees (AED, as of 2026-11-20, without Incorpium services)
 | | No visa | 1 visa | 2 visas |
 |---|---|---|---|
-| Licence and registration | 22,500 | 22,560 | 22,620 |
-| Office or workspace | 16,250 | 16,250 | 16,250 |
+| Licence and registration | 23,590 | 23,650 | 23,710 |
+| Office or workspace | 16,270 | 16,270 | 16,270 |
 | Establishment card and e-channel | 2,020 | 2,020 | 2,020 |
 | Visa: quota, entry, processing | — | 3,323 | 6,646 |
 | Minimum medical insurance | — | 500 | 1,000 |
-| First year, total | from 40,770 | from 44,653 | from 48,536 |
+| First year, total | from 41,880 | from 45,763 | from 49,646 |
 | Renewal per year | not published | not published | not published |
 
 The cost depends on the business activity, number of visas and office. Incorpium's own AI consultant calculates it in the chat line by line, with the first year and renewal shown separately, using the current Incorpium database.
@@ -465,7 +465,7 @@ In the Dubai South catalogue, 421 business activities require regulator approval
 - Renewal is submitted 90 days before the licence expires.
 - Some business activities require a physical office.
 
-### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+### Approximate zone and government fees (AED, as of 2026-11-20, without Incorpium services)
 | | No visa | 1 visa | 2 visas |
 |---|---|---|---|
 | Licence and registration | 12,500 | 15,950 | 22,985 |
@@ -534,7 +534,7 @@ In the DIFC catalogue, 84 business activities require regulator approval before 
 - The commercial licence is renewed every year together with the confirmation statement and the data protection notification.
 - Voluntary liquidation in DIFC takes about 10 working days.
 
-### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+### Approximate zone and government fees (AED, as of 2026-11-20, without Incorpium services)
 | | No visa | 1 visa | 2 visas |
 |---|---|---|---|
 | Licence and registration | 73,470 | 73,470 | 73,470 |
@@ -606,7 +606,7 @@ In the SHAMS catalogue, 192 business activities require regulator approval befor
 - After registration the company keeps a UBO register with SHAMS and has an annual audit.
 - Social media advertising requires a separate permit from the National Media Authority.
 
-### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+### Approximate zone and government fees (AED, as of 2026-11-20, without Incorpium services)
 | | No visa | 1 visa | 2 visas |
 |---|---|---|---|
 | Licence and registration | 6,885 | 8,485 | 10,085 |
@@ -681,7 +681,7 @@ In the SPC Free Zone catalogue, 195 business activities require regulator approv
 - A surcharge applies to the sixth and each further group of activities.
 - For regulated activities the authority's fee is paid separately.
 
-### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+### Approximate zone and government fees (AED, as of 2026-11-20, without Incorpium services)
 | | No visa | 1 visa | 2 visas |
 |---|---|---|---|
 | Licence and registration | 6,885 | 6,885 | 6,885 |
@@ -758,7 +758,7 @@ In the RAKEZ catalogue, 676 business activities require regulator approval befor
 - For industry and warehouses, EPDA, civil defence, CCTV and FEWA are needed after the licence.
 - A company can be moved to RAKEZ from another jurisdiction.
 
-### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+### Approximate zone and government fees (AED, as of 2026-11-20, without Incorpium services)
 | | No visa | 1 visa | 2 visas |
 |---|---|---|---|
 | Licence and registration | 6,000 | 12,000 | 14,000 |
@@ -831,7 +831,7 @@ In the Ajman Free Zone catalogue, 540 business activities require regulator appr
 - Without a request to AFZ the exact package contents are not known; the consultant will check them for your case.
 - The medical test and Emirates ID are processed separately from the zone fees.
 
-### Approximate zone and government fees (AED, as of 2026-11-14, without Incorpium services)
+### Approximate zone and government fees (AED, as of 2026-11-20, without Incorpium services)
 | | No visa | 1 visa | 2 visas |
 |---|---|---|---|
 | Licence and registration | 5,565 | 13,141 | 17,181 |
